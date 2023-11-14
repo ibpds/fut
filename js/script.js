@@ -26,5 +26,5 @@ function inicio(){
     window.location.href = `index1.html`
 }
 function telainicial(){
-    window.location.href = `index0.html`
+    window.location.href = `index.html`
 }
